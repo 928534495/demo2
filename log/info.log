@@ -1,0 +1,51 @@
+15:05:33.285 [main] INFO  com.example.demo2.Demo2Application - Starting Demo2Application using Java 1.8.0_282 on jiang-Latitude-5290-2-in-1 with PID 25691 (/home/jiang/IdeaProjects/demo2/target/classes started by jiang in /home/jiang/IdeaProjects/demo2)
+15:05:33.293 [main] INFO  com.example.demo2.Demo2Application - No active profile set, falling back to default profiles: default
+15:05:34.055 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:05:34.056 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:05:34.056 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+15:05:34.216 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15:05:34.219 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:05:34.464 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:05:34.487 [main] INFO  com.example.demo2.Demo2Application - Started Demo2Application in 1.596 seconds (JVM running for 2.168)
+15:05:55.845 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+15:05:55.954 [http-nio-8080-exec-1] INFO  com.example.demo2.service.Service - log----
+15:37:25.937 [main] INFO  com.example.demo2.Demo2Application - Starting Demo2Application using Java 1.8.0_282 on jiang-Latitude-5290-2-in-1 with PID 29318 (/home/jiang/IdeaProjects/demo2/target/classes started by jiang in /home/jiang/IdeaProjects/demo2)
+15:37:25.945 [main] INFO  com.example.demo2.Demo2Application - No active profile set, falling back to default profiles: default
+15:37:26.710 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:37:26.711 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:37:26.711 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+15:37:26.854 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15:37:26.857 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:37:27.094 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:37:27.116 [main] INFO  com.example.demo2.Demo2Application - Started Demo2Application in 1.588 seconds (JVM running for 2.283)
+15:41:13.030 [main] INFO  com.example.demo2.Demo2Application - Starting Demo2Application using Java 1.8.0_282 on jiang-Latitude-5290-2-in-1 with PID 29865 (/home/jiang/IdeaProjects/demo2/target/classes started by jiang in /home/jiang/IdeaProjects/demo2)
+15:41:13.039 [main] INFO  com.example.demo2.Demo2Application - No active profile set, falling back to default profiles: default
+15:41:13.713 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:41:13.713 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:41:13.714 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+15:41:13.857 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15:41:13.860 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:41:14.100 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:41:14.122 [main] INFO  com.example.demo2.Demo2Application - Started Demo2Application in 1.503 seconds (JVM running for 2.13)
+15:41:58.145 [main] INFO  com.example.demo2.Demo2Application - Starting Demo2Application using Java 1.8.0_282 on jiang-Latitude-5290-2-in-1 with PID 30059 (/home/jiang/IdeaProjects/demo2/target/classes started by jiang in /home/jiang/IdeaProjects/demo2)
+15:41:58.151 [main] INFO  com.example.demo2.Demo2Application - No active profile set, falling back to default profiles: default
+15:41:58.993 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+15:41:58.994 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+15:41:58.994 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+15:41:59.144 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15:41:59.147 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+15:41:59.384 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+15:41:59.405 [main] INFO  com.example.demo2.Demo2Application - Started Demo2Application in 1.661 seconds (JVM running for 2.291)
+15:41:59.406 [main] INFO  com.example.demo2.Initializing.Init - ong ===RabbitMQ=====
+16:18:55.762 [main] INFO  com.example.demo2.Demo2Application - Starting Demo2Application using Java 1.8.0_282 on jiang-Latitude-5290-2-in-1 with PID 35265 (/home/jiang/IdeaProjects/demo2/target/classes started by jiang in /home/jiang/IdeaProjects/demo2)
+16:18:55.775 [main] INFO  com.example.demo2.Demo2Application - No active profile set, falling back to default profiles: default
+16:18:56.489 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:18:56.490 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+16:18:56.490 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.44]
+16:18:56.650 [main] INFO  org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+16:18:56.653 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:18:56.886 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:18:56.907 [main] INFO  com.example.demo2.Demo2Application - Started Demo2Application in 1.578 seconds (JVM running for 2.226)
+16:18:56.909 [main] INFO  com.example.demo2.Initializing.Init - ong ===RabbitMQ=====
+16:19:36.019 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:19:36.039 [http-nio-8080-exec-1] INFO  com.example.demo2.service.Service - log----
