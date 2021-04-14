@@ -1,5 +1,6 @@
-package com.example.demo2.rabbitMQ;
+package com.example.demo2.rabbitMQ.simple;
 
+import com.example.demo2.rabbitMQ.ConnectionUtil;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 public class RabbitProducer {

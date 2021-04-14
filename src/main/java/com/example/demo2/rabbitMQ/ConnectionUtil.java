@@ -13,7 +13,7 @@ public class ConnectionUtil {
         //端口
         factory.setPort(5672);
         //设置账号信息，用户名、密码、vhost
-        factory.setVirtualHost("ea");//虚拟主机，该虚拟主机名必须在rabbtiMQ管理页面上设置
+        factory.setVirtualHost("ee");//虚拟主机，该虚拟主机名必须在rabbtiMQ管理页面上设置
         factory.setUsername("admin");//用户
         factory.setPassword("admin");//密码
         // 通过工程获取连接
