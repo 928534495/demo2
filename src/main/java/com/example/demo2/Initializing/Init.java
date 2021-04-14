@@ -9,7 +9,7 @@ import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
-
+//继承这个类ApplicationRunner 调用run方法 可以在 spring  启动时执行某个方法
 @Component
 public class Init implements ApplicationRunner {
     private final static String QUEUE_NAME = "q_test_01";
