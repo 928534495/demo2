@@ -15,16 +15,10 @@ public class Recv {
         Connection connection = ConnectionUtil.getConnection();
         // 从连接中创建通道
         Channel channel = connection.createChannel();
-        // 声明队列
+        // 声明队列 --队列的声明必须与生产者保持一致
         channel.queueDeclare(QUEUE_NAME, false, false, false, null);
 
-        // 定义队列的消费者
-//        QueueingConsumer consumer = new QueueingConsumer(channel);
-//        DefaultConsumer   consumer = new DefaultConsumer(channel);
-        // 监听队列
-//        channel.basicConsume(QUEUE_NAME, true, consumer);
         Consumer consumer = new DefaultConsumer(channel) {
-
             @Override
             public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) {
                 String message = new String(body);
@@ -38,7 +32,7 @@ public class Recv {
             }
         };
 
-// 关闭自动消息确认，autoAck = false
+// 接收消息   --关闭自动消息确认，autoAck = false
         channel.basicConsume(QUEUE_NAME, false, consumer);
     }
 }
