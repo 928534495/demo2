@@ -1,3 +1,17 @@
 #添加log4j2配置文件
 logging:
   config: classpath:log4j.xml
+
+#添加rabbitmq配置
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: admin
+# 虚拟主机
+#    virtual-host: ea
+#消息开启手动确认
+#    listener:
+#      direct:
+#        acknowledge-mode: manual
